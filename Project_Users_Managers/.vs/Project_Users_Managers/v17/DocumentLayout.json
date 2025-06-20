@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|c:\\users\\boris\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test_exercise\\project_users_managers\\project_users_managers\\validators\\timemorethanzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\validators\\timemorethanzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\validators\\onlytodayattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\validators\\onlytodayattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\project_users_managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\project_users_managers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\dto\\answertaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\dto\\answertaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\project_users_managers\\exceptions\\invalidtaskexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B6320C-884E-471B-8756-D9E36CBBA663}|Project_Users_Managers\\Project_Users_Managers.csproj|solutionrelative:project_users_managers\\exceptions\\invalidtaskexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeMoreThanZero.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Validators\\TimeMoreThanZero.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Validators\\TimeMoreThanZero.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Validators\\TimeMoreThanZero.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Validators\\TimeMoreThanZero.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:27:50.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnlyTOdayAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Validators\\OnlyTOdayAttribute.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Validators\\OnlyTOdayAttribute.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Validators\\OnlyTOdayAttribute.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Validators\\OnlyTOdayAttribute.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:19:35.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnswerTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\DTO\\AnswerTaskDTO.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\DTO\\AnswerTaskDTO.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\DTO\\AnswerTaskDTO.cs",
+              "RelativeToolTip": "Project_Users_Managers\\DTO\\AnswerTaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:44:20.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Project_Users_Managers\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T10:13:26.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\ServiceManager.cs",
+              "RelativeToolTip": "Project_Users_Managers\\ServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:36:25.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\appsettings.json",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\appsettings.json",
+              "RelativeToolTip": "Project_Users_Managers\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T18:34:27.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidTaskException.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Exceptions\\InvalidTaskException.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Exceptions\\InvalidTaskException.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Exceptions\\InvalidTaskException.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Exceptions\\InvalidTaskException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:04:20.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:43:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:35:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Models\\Task.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Models\\Task.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:26:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Services\\ITaskService.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Services\\ITaskService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAnwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:05:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\DTO\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\DTO\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\DTO\\TaskDTO.cs",
+              "RelativeToolTip": "Project_Users_Managers\\DTO\\TaskDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:02:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:53:54.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project_Users_Managers.csproj",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Project_Users_Managers.csproj",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Project_Users_Managers.csproj",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Project_Users_Managers.csproj",
+              "RelativeToolTip": "Project_Users_Managers\\Project_Users_Managers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T16:14:40.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Users_Managers\\Program.cs",
+              "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Test_exercise\\Project_Users_Managers\\Project_Users_Managers\\Program.cs",
+              "RelativeToolTip": "Project_Users_Managers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:12:55.234Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

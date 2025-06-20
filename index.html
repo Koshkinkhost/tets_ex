@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Учет временных затрат</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Учёт задач сотрудников</h1>
+
+    <form id="taskForm">
+      <label for="description">Описание задачи:</label>
+      <input type="text" id="description" required placeholder="Например: Разработка отчета">
+
+      <label for="timeSpent">Время (чч:мм):</label>
+      <input type="time" id="timeSpent" required>
+
+    
+
+      <button type="submit">Добавить задачу</button>
+    </form>
+
+    <div id="errorMessages" class="error"></div>
+
+    <table id="taskTable">
+      <thead>
+        <tr>
+          <th>Дата</th>
+          <th>Описание</th>
+          <th>Время</th>
+          <th>Исполнитель</th>
+        </tr>
+      </thead>
+      <tbody id="taskBody">
+        <!-- Строки задач -->
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2">Общее время:</td>
+          <td id="totalTime" colspan="2">00:00</td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
